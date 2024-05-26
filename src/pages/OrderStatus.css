@@ -1,0 +1,341 @@
+.listitem-heading {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.56px;
+  line-height: 54px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.order-tracking-title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-order-id {
+  position: relative;
+  line-height: 24.01px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 70px;
+}
+.order-id-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 15px 0 16px;
+}
+.horizontal-divider {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  background-color: #2d4156;
+}
+.order-id-input {
+  width: 101.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10.1px;
+  color: #2d4156;
+}
+.tab-by,
+.tab-by1 {
+  position: relative;
+  line-height: 24.01px;
+  font-weight: 500;
+}
+.tab-by {
+  width: 38.3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.tab-by1 {
+  display: inline-block;
+  min-width: 71px;
+}
+.tablist {
+  align-self: stretch;
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11.9px 0 0;
+  gap: 31.8px;
+}
+.border25 {
+  height: 40px;
+  width: 1122.3px;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.24);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.placeholder {
+  position: relative;
+  letter-spacing: 0.13px;
+  display: inline-block;
+  min-width: 128.3px;
+}
+.input1 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.7;
+  max-width: 100%;
+  z-index: 1;
+}
+.button-background,
+.container {
+  align-self: stretch;
+  max-width: 100%;
+}
+.container {
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.24);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 11px;
+}
+.button-background {
+  flex: 1;
+  position: relative;
+}
+.button-background-wrapper,
+.login-prompt {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button-background-wrapper {
+  height: 1px;
+  flex-direction: row;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.login-prompt {
+  flex-direction: column;
+  gap: 8px;
+}
+.only-the-last,
+.please-log-in {
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.limitations-details,
+.login-prompt-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.limitations-details {
+  gap: 4px;
+  font-size: 16px;
+  color: #000;
+}
+.login-prompt-parent {
+  flex: 1;
+  gap: 34.8px;
+  min-width: 729px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.query {
+  position: relative;
+  font-size: 14px;
+  line-height: 24.01px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 44px;
+  z-index: 1;
+}
+.overlayshadow {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), 0 2px 2px rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 5.9px 15px 6.1px 16px;
+}
+.backgroundbordershadow,
+.button,
+.order-tracking-limitations,
+.overlayshadow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #2d4156;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.backgroundbordershadow,
+.order-tracking-limitations {
+  align-self: stretch;
+  max-width: 100%;
+}
+.order-tracking-limitations {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.87);
+}
+.backgroundbordershadow {
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 15px 32px 32px;
+  gap: 8px;
+}
+.listitem-query {
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 106px;
+}
+.query-result {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+}
+.order-tracking-input {
+  align-self: stretch;
+  gap: 23.6px;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+}
+.order-tracking-header,
+.order-tracking-header-parent,
+.order-tracking-input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.order-tracking-header {
+  align-self: stretch;
+  gap: 37.9px;
+}
+.order-tracking-header-parent {
+  width: 1280px;
+  gap: 273.1px;
+  text-align: left;
+  font-size: 36px;
+  color: #000;
+  font-family: Roboto;
+}
+.order-tracking,
+.orderstatus {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.order-tracking {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  max-width: 100%;
+}
+.orderstatus {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 32px;
+  gap: 37.9px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .order-tracking-header-parent {
+    gap: 137px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .login-prompt-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .listitem-heading {
+    font-size: 29px;
+    line-height: 43px;
+  }
+  .login-prompt-parent {
+    gap: 17px;
+  }
+  .order-tracking-header {
+    gap: 19px;
+  }
+  .order-tracking-header-parent {
+    gap: 68px;
+  }
+  .orderstatus {
+    gap: 19px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .listitem-heading {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .tablist {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .order-tracking-header-parent {
+    gap: 34px;
+  }
+}

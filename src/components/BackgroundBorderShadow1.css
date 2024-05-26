@@ -1,0 +1,147 @@
+.container-icon1 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.7px;
+}
+.thailand {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 81px;
+}
+.from1 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+}
+.span1 {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.from-6,
+.usd1 {
+  position: relative;
+  line-height: 23.4px;
+  display: inline-block;
+  min-width: 70.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.usd1 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+  min-width: 31.5px;
+}
+.usd-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+  margin-left: -0.4px;
+  font-size: 14px;
+}
+.from-6-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: 18px;
+}
+.frame-parent9,
+.from-6-parent,
+.thailand-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.thailand-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15.1px;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 16px;
+}
+.backgroundbordershadow-child {
+  width: 157.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 32.6px;
+  box-sizing: border-box;
+  min-width: 157.3px;
+}
+.east1,
+.view-offers1 {
+  position: relative;
+  text-decoration: underline;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.view-offers1 {
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 86.9px;
+}
+.east1 {
+  width: 16.4px;
+  line-height: 16px;
+  font-family: "Material Icons";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16.4px;
+  margin-left: -0.4px;
+}
+.backgroundbordershadow2,
+.view-offers-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #2d4156;
+}
+.backgroundbordershadow2 {
+  width: 416px;
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  justify-content: space-between;
+  padding: 31px 17px 16px 33px;
+  gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .thailand {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .backgroundbordershadow-child {
+    flex: 1;
+  }
+  .backgroundbordershadow2 {
+    flex-wrap: wrap;
+  }
+}

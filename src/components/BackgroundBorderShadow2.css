@@ -1,0 +1,147 @@
+.container-icon {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.7px;
+}
+.japan {
+  position: relative;
+  line-height: 27.3px;
+  display: inline-block;
+  min-width: 58.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.from {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+}
+.span {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.from-5,
+.usd {
+  position: relative;
+  line-height: 23.4px;
+  display: inline-block;
+  min-width: 70.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.usd {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+  min-width: 31.5px;
+}
+.usd-wrapper {
+  flex-direction: column;
+  padding: 1.5px 0 0;
+  margin-left: -0.4px;
+  font-size: 14px;
+}
+.from-5-parent,
+.japan-parent,
+.usd-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from-5-parent {
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 18px;
+}
+.japan-parent {
+  flex-direction: column;
+  gap: 15.8px;
+}
+.backgroundbordershadow-inner,
+.frame-parent7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-items: flex-end;
+  gap: 16px;
+}
+.backgroundbordershadow-inner {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.view-offers {
+  margin-right: -0.30000000000001137px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 86.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.view-offers-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.east {
+  width: 16.4px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 16px;
+  font-family: "Material Icons";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 16.4px;
+  debug_commit: bf4bc93;
+}
+.backgroundbordershadow1,
+.frame-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #2d4156;
+}
+.backgroundbordershadow1 {
+  width: 416px;
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 31px 15px 16px;
+  gap: 13.4px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .japan {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}

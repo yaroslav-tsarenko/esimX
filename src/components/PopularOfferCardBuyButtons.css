@@ -1,0 +1,90 @@
+.container-icon4 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.popular-offer-card-buy-button1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 26.7px;
+}
+.calls,
+.thailand-50gb-10days {
+  margin: 0;
+}
+.thailand-50gb-10days-container {
+  position: relative;
+  line-height: 27.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.svg,
+.usd4 {
+  position: relative;
+  display: inline-block;
+}
+.svg {
+  letter-spacing: 1px;
+  line-height: 24px;
+  font-weight: 600;
+  min-width: 20.4px;
+  white-space: nowrap;
+}
+.usd4 {
+  line-height: 18px;
+  min-width: 26.1px;
+}
+.popular-offer-card-thailand-pr1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1.5px;
+  font-size: 12px;
+}
+.popular-offer-card-thailand-pr {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 16px;
+}
+.popular-offer-card-buy-button,
+.popular-offer-card-thailand {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.popular-offer-card-buy-button {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 16px;
+}
+.popular-offer-card-buy-buttons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: -0.7px;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .thailand-50gb-10days-container {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}

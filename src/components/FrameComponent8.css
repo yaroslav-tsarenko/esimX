@@ -1,0 +1,22 @@
+.dubai-article,
+.dubai-article-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.dubai-article {
+  width: 1140px;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.dubai-article-wrapper {
+  align-self: stretch;
+  padding: 0 20px 35px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 21px;
+  color: #e8071b;
+  font-family: Poppins;
+}

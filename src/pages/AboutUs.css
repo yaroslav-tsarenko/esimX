@@ -1,0 +1,151 @@
+.heading-1 {
+  margin: 0;
+  position: absolute;
+  top: 109.9px;
+  left: calc(50% - 71.9px);
+  font-size: inherit;
+  letter-spacing: -0.56px;
+  line-height: 54px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 144.5px;
+  height: 54px;
+}
+.image-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.section2 {
+  align-self: stretch;
+  height: 305.8px;
+  position: relative;
+  background-color: #000;
+}
+.at-esimx-we,
+.needs-through-a {
+  display: block;
+}
+.at-esimx-we-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-are-not,
+.whether-youre-travelling {
+  display: block;
+}
+.we-are-not-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+}
+.card-stores-or,
+.with-our-services {
+  display: block;
+}
+.with-our-services-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.at-the-heart,
+.quality-anywhere-anytime {
+  display: block;
+}
+.at-the-heart-container,
+.join-us-in {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.about-description {
+  gap: 16.1px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.about-content,
+.about-description,
+.section-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.section-parent {
+  align-self: stretch;
+  gap: 31.5px;
+}
+.about-content {
+  width: 1280px;
+  gap: 111.8px;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-family: Roboto;
+}
+.about-content-wrapper,
+.aboutus {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.about-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  max-width: 100%;
+}
+.aboutus {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 32px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 800px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 43px;
+  }
+  .section-parent {
+    gap: 16px;
+  }
+  .about-content {
+    gap: 56px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .about-content {
+    gap: 28px;
+  }
+}

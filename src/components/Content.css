@@ -1,0 +1,266 @@
+.heading-29 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.27px;
+  line-height: 48px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.heading-2-where-are-you-trav-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.container-icon3 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.3px 0 0;
+}
+.united-arab-emirates {
+  position: relative;
+  line-height: 28px;
+}
+.from3 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+}
+.span3 {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.from-12 {
+  margin-right: -0.8000000000000114px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 82px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.destination-card-from-price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.usd3 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.22px;
+  line-height: 23.4px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 31.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.destination-card-from-price-parent {
+  height: 24.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.view-offers3 {
+  margin-right: -0.2999999999999545px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 86.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.view-offers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.east3 {
+  width: 16.4px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 16px;
+  font-family: "Material Icons";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 16.4px;
+  debug_commit: bf4bc93;
+}
+.destination-card-u-a-e,
+.destination-card-u-a-e-view-of {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.destination-card-u-a-e {
+  align-items: flex-start;
+  padding: 0 0 0 207px;
+  font-size: 16px;
+  color: #2d4156;
+}
+.backgroundbordershadow4,
+.united-arab-emirates-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14.3px;
+}
+.backgroundbordershadow4 {
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 31px 15px 16px 33px;
+  gap: 16px;
+  max-width: 100%;
+}
+.destination-cards,
+.destinations-header {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.destination-cards {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 16px 14px;
+  min-height: 484px;
+  text-align: left;
+  font-size: 21px;
+}
+.destinations-header {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 42.6px;
+}
+.show-all-destinations {
+  flex: 1;
+  position: relative;
+  font-size: 14px;
+  line-height: 24.01px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+}
+.overlayshadow2 {
+  flex: 1;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2), 0 2px 2px rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 10px 15px 10px 16px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.link3,
+.overlayshadow2,
+.show-destinations {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #009874;
+  width: 200.8px;
+  border-radius: 8px;
+  justify-content: flex-start;
+}
+.show-destinations {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.content,
+.travel-destinations {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.travel-destinations {
+  width: 1280px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 42.5px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 800px) {
+  .heading-29 {
+    font-size: 26px;
+    line-height: 38px;
+  }
+  .destinations-header {
+    gap: 21px;
+  }
+  .travel-destinations {
+    gap: 20px;
+  }
+  .content {
+    padding-bottom: 28px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-29 {
+    font-size: 19px;
+    line-height: 29px;
+  }
+  .united-arab-emirates {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .destination-card-u-a-e {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .backgroundbordershadow4 {
+    flex-wrap: wrap;
+  }
+}

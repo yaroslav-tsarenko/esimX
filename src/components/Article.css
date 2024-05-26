@@ -1,0 +1,149 @@
+.container-icon11 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gradient2 {
+  align-self: stretch;
+  flex: 1;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), transparent 75%);
+  z-index: 1;
+}
+.gradient2,
+.heading-39,
+.link14 {
+  position: relative;
+  max-width: 100%;
+}
+.link14 {
+  align-self: stretch;
+  height: 310.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-39 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.any-huawei-phones,
+.esim-on-those,
+.ive-got-a1 {
+  display: block;
+}
+.ive-got-a-container1 {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: "Open Sans";
+  color: #777;
+}
+.heading-3-link-does-huawei-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+  max-width: 100%;
+}
+.link-read3 {
+  position: relative;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: "Open Sans";
+  color: #54595f;
+  min-width: 81.3px;
+}
+.article-child,
+.frame-parent17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent17 {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+}
+.article-child {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 26px 43px 20px;
+  box-sizing: border-box;
+}
+.dennis-terry {
+  width: 72px;
+  border: 0;
+  outline: 0;
+  font-family: "Open Sans";
+  font-size: 12px;
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  line-height: 15.6px;
+  color: #adadad;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.article2,
+.horizontalborder3 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.horizontalborder3 {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  padding: 9px 20px 9.9px;
+}
+.article2 {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 40px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #e8071b;
+  font-family: Poppins;
+}
+@media screen and (max-width: 900px) {
+  .frame-parent17 {
+    gap: 16px;
+  }
+  .article2 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-39 {
+    font-size: 17px;
+    line-height: 17px;
+  }
+}

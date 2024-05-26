@@ -1,0 +1,54 @@
+.link-read2 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 81.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.toronto-author {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px;
+}
+.lila-bennett2 {
+  width: 67px;
+  border: 0;
+  outline: 0;
+  font-family: "Open Sans";
+  font-size: 12px;
+  background-color: transparent;
+  height: 16px;
+  position: relative;
+  line-height: 15.6px;
+  color: #adadad;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.horizontalborder2,
+.toronto-author-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.horizontalborder2 {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  padding: 9px 20px 9.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.toronto-author-parent {
+  flex-direction: column;
+  gap: 20px;
+  text-align: left;
+  font-size: 12px;
+  color: #54595f;
+  font-family: "Open Sans";
+}
